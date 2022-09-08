@@ -1,6 +1,6 @@
 # s drive on computer
 
-[![s drive on computer](get-detail.png)](https://computersolve.com/s-drive-on-computer/)
+[![s drive on computer](get-detail.png)](https://icncomputer.com/s-drive-on-computer/)
 
 The S: drive is part of the central windows file store and enables groups of users to access and share files necessary for their work. Note that only data will be stored on the S: drive, departmental software cannot be stored.
 
